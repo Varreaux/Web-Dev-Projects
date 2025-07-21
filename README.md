@@ -1,6 +1,4 @@
-# Full Stack Bootcamp
-
-This course taught me how websites work and how to build them from scratch. I learned:
+# Mini series of projects to help me solidify the following:
 
 - **HTML**: The basic structure of web pages (like headings, images, links).
 - **CSS**: How to style pages (colors, layouts, fonts, responsiveness).
